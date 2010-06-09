@@ -1,5 +1,5 @@
 require 'uri'
-require 'active_support'
+require 'active_support/all'
 
 require 'roxml/definition'
 require 'roxml/xml'
